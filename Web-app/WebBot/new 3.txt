@@ -1,0 +1,31 @@
+https://www.youtube.com/playlist?list=PLAb7GIEYDj8aiVXa-A88p9ZiYtHESBfjr
+
+Airlines Travel Planning_praveen.tissera@gmail.com_1
+Travel Planning_praveen.tissera@gmail.com_1
+
+
+my travel plan
+
+Client ID
+cs-d36e55cd-3b76-54f3-b49f-ee43ae2c84be
+client secret
+QyKzmmJpaiILzp6QLYdBq+z4zth5uIt2vADSzWdlWBo=
+
+bot name
+Travel Planning_praveen.tissera@gmail.com_1
+
+bot id
+st-eafc0dd3-de58-5384-9c9f-223a8b2d9052
+
+
+
+
+new bot
+bot name
+test123
+bot id
+st-c92b2513-43f0-58b1-aa4f-1ba3de0edae9
+client id
+cs-6f681cb1-ad49-5265-88dd-0dbae2dea72a
+client secret
+R4k3ORE9wRPbzjcJO6mfWG6IjvFk2hgMe/Uj4S22YhM=
